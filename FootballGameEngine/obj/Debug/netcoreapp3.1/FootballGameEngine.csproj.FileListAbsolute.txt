@@ -1,0 +1,11 @@
+D:\DOCUMENTS\_University\1курс\ООП\Football\FootballGameEngine\bin\Debug\netcoreapp3.1\FootballGameEngine.exe
+D:\DOCUMENTS\_University\1курс\ООП\Football\FootballGameEngine\bin\Debug\netcoreapp3.1\FootballGameEngine.deps.json
+D:\DOCUMENTS\_University\1курс\ООП\Football\FootballGameEngine\bin\Debug\netcoreapp3.1\FootballGameEngine.runtimeconfig.json
+D:\DOCUMENTS\_University\1курс\ООП\Football\FootballGameEngine\bin\Debug\netcoreapp3.1\FootballGameEngine.runtimeconfig.dev.json
+D:\DOCUMENTS\_University\1курс\ООП\Football\FootballGameEngine\bin\Debug\netcoreapp3.1\FootballGameEngine.dll
+D:\DOCUMENTS\_University\1курс\ООП\Football\FootballGameEngine\bin\Debug\netcoreapp3.1\FootballGameEngine.pdb
+D:\DOCUMENTS\_University\1курс\ООП\Football\FootballGameEngine\obj\Debug\netcoreapp3.1\FootballGameEngine.csprojAssemblyReference.cache
+D:\DOCUMENTS\_University\1курс\ООП\Football\FootballGameEngine\obj\Debug\netcoreapp3.1\FootballGameEngine.AssemblyInfoInputs.cache
+D:\DOCUMENTS\_University\1курс\ООП\Football\FootballGameEngine\obj\Debug\netcoreapp3.1\FootballGameEngine.AssemblyInfo.cs
+D:\DOCUMENTS\_University\1курс\ООП\Football\FootballGameEngine\obj\Debug\netcoreapp3.1\FootballGameEngine.dll
+D:\DOCUMENTS\_University\1курс\ООП\Football\FootballGameEngine\obj\Debug\netcoreapp3.1\FootballGameEngine.pdb

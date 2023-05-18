@@ -1,0 +1,15 @@
+D:\DOCUMENTS\_University\1курс\ООП\Football\Football\bin\Debug\netcoreapp3.1\FootballGameEngine.exe
+D:\DOCUMENTS\_University\1курс\ООП\Football\Football\bin\Debug\netcoreapp3.1\Football.exe
+D:\DOCUMENTS\_University\1курс\ООП\Football\Football\bin\Debug\netcoreapp3.1\Football.deps.json
+D:\DOCUMENTS\_University\1курс\ООП\Football\Football\bin\Debug\netcoreapp3.1\Football.runtimeconfig.json
+D:\DOCUMENTS\_University\1курс\ООП\Football\Football\bin\Debug\netcoreapp3.1\Football.runtimeconfig.dev.json
+D:\DOCUMENTS\_University\1курс\ООП\Football\Football\bin\Debug\netcoreapp3.1\Football.dll
+D:\DOCUMENTS\_University\1курс\ООП\Football\Football\bin\Debug\netcoreapp3.1\Football.pdb
+D:\DOCUMENTS\_University\1курс\ООП\Football\Football\bin\Debug\netcoreapp3.1\FootballGameEngine.dll
+D:\DOCUMENTS\_University\1курс\ООП\Football\Football\bin\Debug\netcoreapp3.1\FootballGameEngine.pdb
+D:\DOCUMENTS\_University\1курс\ООП\Football\Football\obj\Debug\netcoreapp3.1\Football.csprojAssemblyReference.cache
+D:\DOCUMENTS\_University\1курс\ООП\Football\Football\obj\Debug\netcoreapp3.1\Football.AssemblyInfoInputs.cache
+D:\DOCUMENTS\_University\1курс\ООП\Football\Football\obj\Debug\netcoreapp3.1\Football.AssemblyInfo.cs
+D:\DOCUMENTS\_University\1курс\ООП\Football\Football\obj\Debug\netcoreapp3.1\Football.csproj.CopyComplete
+D:\DOCUMENTS\_University\1курс\ООП\Football\Football\obj\Debug\netcoreapp3.1\Football.dll
+D:\DOCUMENTS\_University\1курс\ООП\Football\Football\obj\Debug\netcoreapp3.1\Football.pdb
